@@ -10,4 +10,4 @@ There are no config files or argument passing, any customisation will require mo
 Clone and navigate to the project root folder, then
 * $ cargo run --release
 
-Sit back and watch.
+Press any non modifier key to exit, e.g 'q'
